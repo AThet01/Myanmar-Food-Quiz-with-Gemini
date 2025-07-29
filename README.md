@@ -1,4 +1,4 @@
-# Myanmar-Food-Quiz-with-Gemini
+# Myanmar-Food-Quiz-with-Image
 This is a Streamlit web app that uses Google Gemini (Multimodal) to answer multiple choice questions (MCQs) based on an uploaded image of a Myanmar food dish.
 It combines image understanding with natural language to evaluate answers and measure model performance.
 To show the model predictions and accuracy according to myanmar food images+MCQs.
