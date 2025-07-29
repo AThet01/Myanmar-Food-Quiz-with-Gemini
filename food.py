@@ -8,7 +8,7 @@ from sklearn.metrics import classification_report, accuracy_score
 # ======= Gemini Config =======
 # Make sure to replace "YOUR_API_KEY" with your actual Gemini API key.
 # It is recommended to use st.secrets for key management in a deployed app.
-genai.configure(api_key="AIzaSyD23K5kQpeCidAj_HW4vnSVtrOZKltnPkI") 
+genai.configure(api_key="YOUR_API_KEY") 
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 st.set_page_config(page_title="Myanmar Food Quiz", layout="wide")
