@@ -21,13 +21,13 @@ To show the model predictions and accuracy according to myanmar food images+MCQs
 
 ## 🛠️ Technologies Used
 
--Streamlit
+* Streamlit
 
--Google Generative AI (Gemini)
+* Google Generative AI (Gemini)
 
--Pillow (PIL)
+* Pillow (PIL)
 
--scikit-learn
+* scikit-learn
 
 
 ## 📦 Installation
