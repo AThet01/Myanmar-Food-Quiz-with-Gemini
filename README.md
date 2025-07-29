@@ -32,7 +32,7 @@ To show the model predictions and accurancy according to myanmar food images+MCQ
 
 ## 📦 Installation
 ```bash
-    Clone the repo:
+Clone the repo:
 
 git clone https://github.com/yourusername/myanmar-food-quiz.git
 cd myanmar-food-quiz
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## 📋 Question Format
 ```bash
-Paste your questions in the following format (in Burmese or English):
+Paste your questions in the following format (in Burmese):
 
 Q1: မုန့်ဟင်းခါးရဲ့အဓိကအသားကဘာလဲ?
 A. ကြက်သား
